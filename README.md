@@ -77,9 +77,16 @@ for each line in the input file:
 * Using the list and the dictionary in this manner allowed us to parse the input file only once and get all the answers from this single iteration. In module 2, we used a similar optimization technique to speed up the VBA script.
 
 
-# Results of a Congressional Race in Colorado
+# Results of the Congressional Race in Colorado
 
 The following table shows votes cast for each candidate.
+
+| Candidate | Votes Received | Votes Received (%) | Winner? |
+| --------- | -------------- |--------------------|---------|
+| Charles Casper | 85,213 | 23.0% | - [] |
+| Diana DeGette | 272,892 | 73.8% | - [x] |
+| Raymon Anthony Doane | 11,606 | 3.1% | - [] |
+
 
 The following table shows votes cast across each county.
 
