@@ -83,9 +83,9 @@ The following table shows votes cast for each candidate.
 
 | Candidate | Votes Received | Votes Received (%) | Winner? |
 | --------- | -------------- |--------------------|---------|
-| Charles Casper | 85,213 | 23.0% | - [ ] |
+| Charles Casper | 85,213 | 23.0% | <ul><li>- [ ] </li> |
 | Diana DeGette | 272,892 | 73.8% | <ul><li>- [x] </li> |
-| Raymon Anthony Doane | 11,606 | 3.1% | - [ ] |
+| Raymon Anthony Doane | 11,606 | 3.1% | <ul><li>- [ ] </li> |
 
 
 The following table shows votes cast across each county.
