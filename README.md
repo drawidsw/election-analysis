@@ -90,3 +90,8 @@ The following table shows votes cast for each candidate.
 
 The following table shows votes cast across each county.
 
+| County | Votes Cast | Votes Cast (%) | Most Votes? |
+| ------ | ---------- |----------------|-------------|
+| Jefferson | 38,855 | 10.5% | <ul><li>- [ ] </li> |
+| Denver | 306,055 | 82.8% | <ul><li>- [x] </li> |
+| Arapahoe | 24,801 | 6.7% | <ul><li>- [ ] </li> |
