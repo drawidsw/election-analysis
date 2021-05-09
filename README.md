@@ -2,7 +2,7 @@
 
 In this exercise, we are provided with a raw text file containing records of votes cast for each candidate. The objective is to determine the winner; a secondary objective is to determine the county with the most votes cast.
 
-While this exercise is simple in nature, most sophisticated voting analysis today is done using similar principles. While the immediate objective is to determine the winner of the election, there are multiple secondary objectives such as:
+While this exercise is simple in nature, most sophisticated voting analyses today are done using similar principles. While the immediate objective is to determine the winner of the election, there are multiple secondary objectives such as:
 * Keep a historical record of voting patterns for future trend analyses enabing every participating political party determine where their strongholds are and where they should spend most money.
 * Reconcile votes to see if they match expected trends and measure deviations if any. Detect instances of anolamies if necessary.
 * Understand which counties cast the most votes and take subsequent actions. For example, the government may spend resources to increase the turnout in under-represented counties.
