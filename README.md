@@ -95,3 +95,9 @@ The following table shows votes cast across each county.
 | Jefferson | 38,855 | 10.5% | <ul><li>- [ ] </li> |
 | Denver | 306,055 | 82.8% | <ul><li>- [x] </li> |
 | Arapahoe | 24,801 | 6.7% | <ul><li>- [ ] </li> |
+ 
+# Future Enhancements
+
+* **Uniqueness and validity of ballots**: The first enhancement to the code is to check if each ballot is unique and that there are no duplicates. Another objective is to determine if the ballots are valid. For example, if we could pass in the python program argument a *range* of valid ballots, we could confirm if the given ballot is within that range.
+  * Which data structure could be used to check uniqueness? Both list and dictionary could be used. For the *list* approach, each uniquely discovered ballot ID could be appended to the list; before appending a newly found ballot ID, we could scan the list to check if one exists. For the *dictionary*, a new entry could be added to the dictionary with ballot ID as the *key*. Before adding a newly discovered ballot ID as the key, we could check if one exists. The dictionary approach is superior since a dictionary lookup is much faster than a list lookup. Intuitively too, it makes sense, since a dictionary key works the same way an *index of a real dictionary* works. 
+* **Candidate results for each county**: The second enhancement is to analyze how a given candidate performed in each county. Even though a candidate might lost a congressional election, by understanding their performance at the county level, the political party can understand its strongholds and this information could prove useful for local election.
