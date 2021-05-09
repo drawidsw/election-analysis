@@ -7,7 +7,7 @@ While this exercise is simple in nature, most sophisticated voting analyses toda
 * Reconcile votes to see if they match expected trends and measure deviations if any. Detect instances of anolamies if necessary.
 * Understand which counties cast the most votes and take subsequent actions. For example, the government may spend resources to increase the turnout in under-represented counties.
 
-The data on voters and actual voting records is considered invaluable today and every political party in most of the world would spend considerable resources in collecting and analyzing such data to take strategic decisions.
+The data on voters and actual voting records is considered invaluable today and every political party in most of the world spends considerable resources in collecting and analyzing such data to take strategic decisions.
 
 # Input Data, Pseudocode and Analysis
 
